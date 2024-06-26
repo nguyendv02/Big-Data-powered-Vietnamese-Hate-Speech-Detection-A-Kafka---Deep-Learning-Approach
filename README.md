@@ -15,6 +15,8 @@ each comment is classified as hate speech or clean. Subsequently, we label and e
 ## Result
 
 ### Contact:
-Email: nguyendv02@gmail.com or 20520657@gm.uit.edu.vn
+Email: Chi Thanh Dang, Thuy Hong Thi Dang, Nguyen Van Dinh
+
+20520761@gm.uit.edu.vn, 20520523@gm.uit.edu.vn, 20520657@gm.uit.edu.vn (nguyendv02@gmail.com)
 
 Faculty of Information Science and Engineering, University of Information Technology, Vietnam National University, Ho Chi Minh City, Vietnam.

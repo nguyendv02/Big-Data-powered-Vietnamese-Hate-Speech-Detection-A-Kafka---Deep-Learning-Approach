@@ -9,7 +9,7 @@ each comment is classified as hate speech or clean. Subsequently, we label and e
 ## Real-time Hate Speech Detection System
 
 <p align="center">
-  <image src="https://github.com/nguyendv02/Big-Data-powered-Vietnamese-Hate-Speech-Detection-A-Kafka---Deep-Learning-Approach/assets/137906492/aab76a3b-0341-452b-9d7a-4415c8eca536" width="600">
+  <image src="https://github.com/nguyendv02/Big-Data-powered-Vietnamese-Hate-Speech-Detection-A-Kafka---Deep-Learning-Approach/assets/137906492/8d51a765-c772-4db0-94b2-757298b6aa66" width="600">
 </p>
 
 ## Result
